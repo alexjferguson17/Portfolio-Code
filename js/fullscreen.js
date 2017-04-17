@@ -5,7 +5,6 @@ $(document).ready(function() {
 		navigation: true,
 		navigationPosition: 'right',
 		slidesNavigation: true,
-		loopBottom: true,
 	});
 });
 
