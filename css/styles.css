@@ -229,4 +229,8 @@ button {
 		font-size: 19px;
 		margin-top: -15px;
 	}
+	
+	.hero-sector {
+		margin-top: 55px;
+	}
 }
