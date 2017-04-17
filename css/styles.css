@@ -219,9 +219,13 @@ button {
 		font-size: 46px;
 	}
 	.main-text {
-		font-size: 24px;
+		font-size: 19px;
 	}
 	.main-text-resume {
 		font-size: 24px;
+	}
+	
+	.main-text-skill {
+		font-size: 19px;
 	}
 }
